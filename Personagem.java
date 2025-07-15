@@ -3,7 +3,7 @@ public class Personagem {
     public String nome;
     public String classe;
     public int nivel = 1;
-    public int vida = 100;
+    public int vida;
     public int mana;
     public int forca;
     public int dano;
@@ -80,7 +80,7 @@ public class Personagem {
         case "mago":
           
             System.out.println(" {^ ^}  ");
-            System.out.println("   | }  ");
+            System.out.println("   |-}  ");
             System.out.println("   | ");
             System.out.println("  / /");
             break;

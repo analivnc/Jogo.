@@ -18,14 +18,13 @@
 
     
         Jose.mostrarStatus();
-        Gabriel.mostrarStatus();
-
-        Jose.desenharPersonagem();
-
-
-
         Gabriel.desenharPersonagem();
 
+        Gabriel.mostrarStatus();
+        Jose.desenharPersonagem();
+    
+
+     
 
        
    
